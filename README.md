@@ -2,7 +2,9 @@
 
 ## Review
 
-## Dadaset
+## Chemical LLMs
+
+## Dataset
 
 ### Multimodal Dataset
 
@@ -18,4 +20,9 @@
 ## Robotics
 1. **ORGANA: A Robotic Assistant for Automated Chemistry Experimentation and Characterization**
 
-   *Kourosh Darvish, Marta Skreta, Yuchi Zhao, Naruki Yoshikawa, Sagnik Som, Miroslav Bogdanovic, Yang Cao, Han Hao, Haoping Xu, Alán Aspuru-Guzik, Animesh Garg, Florian Shkurti* [[pdf](https://arxiv.org/abs/2401.06949)][[project](https://ac-rad.github.io/organa/)] 2024.1
+   *Kourosh Darvish, Marta Skreta, Yuchi Zhao, Naruki Yoshikawa, Sagnik Som, Miroslav Bogdanovic, Yang Cao, Han Hao, Haoping Xu, Alán Aspuru-Guzik, Animesh Garg, Florian Shkurti* [[pdf](https://arxiv.org/abs/2401.06949)][[project](https://ac-rad.github.io/organa/)][[dataset](https://drive.google.com/file/d/1XMVYzOz6EbNiSNdiXQPiGCnYvO6ERSQk/view)] 2024.1
+   
+   
+1. **Large language models for chemistry robotics**
+
+   *Naruki Yoshikawa, Marta Skreta, Kourosh Darvish, Sebastian Arellano-Rubach, Zhi Ji, Lasse Bjørn Kristensen, Andrew Zou Li, Yuchi Zhao, Haoping Xu, Artur Kuramshin, Alán Aspuru-Guzik, Florian Shkurti & Animesh Garg * [[pdf](https://link.springer.com/article/10.1007/s10514-023-10136-2)][[project](https://ac-rad.github.io/organa/)] 2024.1
